@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Aeonik';
+  src: url('./assets/fonts/AeonikTRIAL-Regular.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body, html {
+  font-family: 'Aeonik', sans-serif !important;
+ 
+}
+
